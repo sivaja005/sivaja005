@@ -1,3 +1,4 @@
+```python
 class SivajaV:
     def __init__(self):
         self.name = "[Sivaja V]"
@@ -13,6 +14,7 @@ class SivajaV:
 
 developer = SivajaV()
 print(developer.improve())
+```
 
 ### 🔥 GitHub Stats
 
